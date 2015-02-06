@@ -1,25 +1,49 @@
-id,title,gallery
-"1218","Olive Trees","G355"
-"1226","Self-Portrait with Dr. Arrieta","Not on View"
-"1244","Warrior with Shield","G375"
-"1348","The Death of Germanicus","G313"
-"1355","Study for Portrait VI","G375"
-"1380","Yogini with a Jar","G211"
-"8023","Pier table","G307"
-"1629","Ganymede and the Eagle","G307"
-"1721","Frank","G373"
-"3183","Equestrian figure","G250"
-"3520","The Doryphoros","G230"
-"60728","Celestial Horse","G215"
-"113926","Writing desk","G304"
-"114602","Hunting Coat","G261"
-"108860","Red-and-blue-laced Suite of Armor from the Kii Tokugawa Family","G219"
-"109118","Masterpiece cup and cover","G350"
-"115836","Some/One","G373"
-"116725","Wisdom King of Awe-inspiring Power","G220"
-"1270","Blind Man's Buff","G371"
-"90742","Frame, Italian Florentine","Not on View"
-"1411","Three Bathers","G371"
-"1748","The Coaci Inkstand","G310"
-"4324","Jade Mountain Illustrating the Gathering of Scholars at the Lanting Pavillion","Not on View"
-"5788","The Bodhisattva Guanyin","G200"
+id,title,gallery,on the lobby screen
+"278","Christ Driving the Money Changers from the Temple","G341",true
+"529","Lucretia","Not on View",false
+"1218","Olive Trees","G355",true
+"1226","Self-Portrait with Dr. Arrieta","Not on View",false
+"1244","Warrior with Shield","G375",false
+"1270","Blind Man's Buff","G371",false
+"1348","The Death of Germanicus","G313",true
+"1355","Study for Portrait VI","G375",false
+"1380","Yogini with a Jar","G211",true
+"1411","Three Bathers","G371",false
+"1629","Ganymede and the Eagle","G307",true
+"1704","Tahkt-I-Sulayman Variation II","G100",true
+"1721","Frank","G373",true
+"1748","The Coaci Inkstand","G310",false
+"1978","Convulsionists of Tangier","G321",true
+"3183","Equestrian figure","G250",true
+"3520","The Doryphoros","G230",true
+"4324","Jade Mountain Illustrating the Gathering of Scholars at the Lanting Pavillion","Not on View",false
+"4866","Shrine head","G250",true
+"5788","The Bodhisattva Guanyin","G200",true
+"6335","The Laughing Waters Three Miles Below the Falls of St. Anthony","Not on View",false
+"8023","Pier table","G307",false
+"60728","Celestial Horse","G215",true
+"90742","Frame, Italian Florentine","Not on View",false
+"108860","Red-and-blue-laced Suite of Armor from the Kii Tokugawa Family","G219",true
+"109118","Masterpiece cup and cover","G350",true
+"109140","Policeman on W.C.","G369",false
+"113926","Writing desk","G304",true
+"114602","Hunting Coat","G261",true
+"115836","Some/One","G373",true
+"116121","Thomas","Not on View",true
+"116298","Ehrenpforte (The Triumphal Arch of Maximilian I)","Not on View",false
+"116472","Goblet and cover","G311",true
+"116473","Goblet","G332",true
+"116476","Un Forgeron (A Blacksmith)","Not on View",false
+"116505","Study of Putti","Not on View",false
+"116570","Phil/Fingerprint","Not on View",false
+"116725","Wisdom King of Awe-inspiring Power","G220",false
+"118619","The Bath","Not on View",false
+"118620","Children Playing Ball","Not on View",false
+"118786","Winter Landscape","Not on View",false
+"118808","Ram","G304",true
+"118824","Winter Landscape with Boat","Not on View",false
+"118991","Mask","G250",false
+"119128","Black Place I","Not on View",false
+"119207","A Storm at Sea","Not on View",false
+"119214","Pulse","G275",true
+"119599","Second-hand Reading","G365",false
