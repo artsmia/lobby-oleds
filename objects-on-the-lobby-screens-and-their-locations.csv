@@ -2,7 +2,7 @@ id,title,gallery,on the lobby screen
 "278","Christ Driving the Money Changers from the Temple","G341",true
 "529","Lucretia","Not on View",false
 "1218","Olive Trees","G355",true
-"1226","Self-Portrait with Dr. Arrieta","Not on View",false
+"1226","Self-Portrait with Dr. Arrieta","G323",false
 "1244","Warrior with Shield","G375",false
 "1270","Blind Man's Buff","G371",false
 "1348","The Death of Germanicus","G313",true
@@ -16,7 +16,7 @@ id,title,gallery,on the lobby screen
 "1978","Convulsionists of Tangier","G321",true
 "3183","Equestrian figure","G250",true
 "3520","The Doryphoros","G230",true
-"4324","Jade Mountain Illustrating the Gathering of Scholars at the Lanting Pavillion","Not on View",false
+"4324","Jade Mountain Illustrating the Gathering of Scholars at the Lanting Pavillion","G210",false
 "4866","Shrine head","G250",true
 "5788","The Bodhisattva Guanyin","G200",true
 "6335","The Laughing Waters Three Miles Below the Falls of St. Anthony","Not on View",false
@@ -31,7 +31,7 @@ id,title,gallery,on the lobby screen
 "114602","Hunting Coat","G261",true
 "115836","Some/One","G373",true
 "116121","Thomas","Not on View",false
-"116298","Ehrenpforte (The Triumphal Arch of Maximilian I)","Not on View",false
+"116298","Ehrenpforte (The Triumphal Arch of Maximilian I)","G266-G274",false
 "116472","Goblet and cover","G311",true
 "116473","Goblet","G332",true
 "116476","Un Forgeron (A Blacksmith)","Not on View",false
@@ -46,7 +46,7 @@ id,title,gallery,on the lobby screen
 "118808","Ram","G304",true
 "118824","Winter Landscape with Boat","Not on View",false
 "118991","Mask","G250",false
-"119128","Black Place I","Not on View",false
+"119128","Black Place I","G301",false
 "119207","A Storm at Sea","Not on View",false
 "119214","Pulse","G275",true
 "119599","Second-hand Reading","G365",false
